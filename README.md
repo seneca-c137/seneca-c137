@@ -87,7 +87,8 @@ I enjoy tracing behavior through source code, separating implemented functionali
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=seneca-c137&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="Kishore's GitHub statistics" />
+[View GitHub contribution activity](https://github.com/seneca-c137?tab=overview)
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneca-c137&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Kishore's most-used programming languages" />
 
 </div>
