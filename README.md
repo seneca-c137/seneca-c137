@@ -1,13 +1,17 @@
-# Hi, I'm Kishore 👋
+<h1 align="center">Hi, I'm Kishore 👋</h1>
 
-**Computer Science Student · Systems & Distributed Systems Developer**
+<p align="center">
+  <strong>Computer Science Student · Systems & Distributed Systems Developer</strong><br />
+  <sub><code>SYSTEMS</code> · <code>DISTRIBUTED COMPUTING</code> · <code>SOFTWARE QUALITY</code></sub>
+</p>
 
-I build and study software close to the systems it runs on: distributed workloads, GPU-oriented infrastructure, access control, and reliable software experimentation.
+<p align="center">
+  I build and study software close to the systems it runs on: distributed workloads, GPU-oriented infrastructure, access control, and reliable software experimentation.
+</p>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-seneca--c137-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/seneca-c137)
-[![Email](https://img.shields.io/badge/Email-kishor.152007%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kishor.152007@gmail.com)
+[GitHub](https://github.com/seneca-c137) · [Email](mailto:kishor.152007@gmail.com)
 
 </div>
 
@@ -33,38 +37,34 @@ I enjoy tracing behavior through source code, separating implemented functionali
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### Frameworks, Libraries & Tools
+### Build, Testing & Libraries
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Serde](https://img.shields.io/badge/Serde-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Jackson](https://img.shields.io/badge/Jackson-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Serde](https://img.shields.io/badge/Serde-000000?style=flat-square&logo=rust&logoColor=white)
+![Jackson](https://img.shields.io/badge/Jackson-000000?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/seneca-c137/rag-revocation-research">RAG Revocation Research</a></h3>
-      <p>A Java research prototype for keeping document access decisions current in a simulated RAG retrieval pipeline.</p>
-      <p><strong>Problem:</strong> A revoked user or role can retain access to an already retrieved or cached document unless authorization is revalidated.</p>
-      <p><strong>Technologies:</strong> Java 21, Maven, JUnit 5, Jackson, Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/seneca-c137/distributed-llm-finetuning-schedule">Distributed LLM Fine-Tuning Scheduler</a></h3>
-      <p>A Rust-based research project exploring periodic, adaptive workload redistribution across heterogeneous workers.</p>
-      <p><strong>Problem:</strong> Static workload allocation can leave faster workers waiting behind slower workers at synchronization boundaries.</p>
-      <p><strong>Technologies:</strong> Rust, Cargo, Python, psutil, Serde, TCP/NDJSON</p>
-    </td>
-  </tr>
-</table>
+### [RAG Revocation Research](https://github.com/seneca-c137/rag-revocation-research)
+
+A Java research prototype for keeping document access decisions current in a simulated RAG retrieval pipeline.
+
+> **Problem:** A revoked user or role can retain access to an already retrieved or cached document unless authorization is revalidated.<br />
+> **Technologies:** Java 21 · Maven · JUnit 5 · Jackson · Python
+
+### [Distributed LLM Fine-Tuning Scheduler](https://github.com/seneca-c137/distributed-llm-finetuning-schedule)
+
+A Rust-based research project exploring periodic, adaptive workload redistribution across heterogeneous workers.
+
+> **Problem:** Static workload allocation can leave faster workers waiting behind slower workers at synchronization boundaries.<br />
+> **Technologies:** Rust · Cargo · Python · psutil · Serde · TCP/NDJSON
 
 ## Open Source & Engineering
 
@@ -89,7 +89,7 @@ I enjoy tracing behavior through source code, separating implemented functionali
 
 [View GitHub contribution activity](https://github.com/seneca-c137?tab=overview)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneca-c137&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Kishore's most-used programming languages" />
+· [Browse public repositories](https://github.com/seneca-c137?tab=repositories)
 
 </div>
 
